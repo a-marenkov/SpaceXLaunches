@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpaceX launches</string>
+    <string name="launch_thumbnail">launch thumbnail</string>
+    <string name="article_not_found">Article for this launch has not found</string>
+    <string name="no_launches">No launches in</string>
+</resources>
